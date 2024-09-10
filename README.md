@@ -1,4 +1,3 @@
-```markdown
 # 📟 Calculadora Simples
 
 Uma calculadora web simples e intuitiva desenvolvida com HTML, CSS e JavaScript, projetada para realizar operações matemáticas básicas de maneira fácil e rápida.
