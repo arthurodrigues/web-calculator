@@ -7,12 +7,6 @@ Uma calculadora web simples e intuitiva desenvolvida com HTML, CSS e JavaScript,
 
 Este projeto implementa uma calculadora funcional que realiza operações de adição, subtração, multiplicação e divisão, além de funcionalidades básicas como limpar o display e apagar o último dígito. A interface é amigável e fácil de usar, lembrando uma calculadora clássica.
 
-## 🖥️ Demonstração
-
-![Calculadora](link-da-imagem-da-calculadora)
-
-> **Nota:** Adicione uma imagem ou GIF da calculadora em funcionamento para mostrar aos usuários como ela se parece.
-
 ## 🛠️ Funcionalidades
 
 - **Adição (+)**
