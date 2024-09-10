@@ -37,7 +37,7 @@ Para rodar o projeto localmente, siga as instruções abaixo:
 1. **Clone o repositório**:
 
    ```bash
-   git clone https://github.com/seu-usuario/web-calculator.git
+   git clone https://github.com/arthurodrigues/web-calculator.git
    ```
 
 2. **Acesse o diretório do projeto**:
